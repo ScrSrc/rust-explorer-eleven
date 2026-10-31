@@ -12,7 +12,7 @@
 
 ### Способ 1: Скачать готовый установщик
 
-Перейдите в раздел [Releases](https://github.com/ScrSrc/rust-explorer-eleven/releases/latest) и скачайте файл `win11_explorer-1.0.0-x86_64.msi`. Запустите его от имени администратора.
+Перейдите в раздел [Releases](https://github.com/ScrSrc/rust-explorer-eleven/releases/latest) и скачайте файл `win11_explorer.exe`. Запустите его от имени администратора.
 
 ### Способ 2: Сборка из исходников
 
